@@ -686,7 +686,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Brick\Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
-* [DecimalObject](https://github.com/spryker/decimal-object) - A value object to handle decimals/floats easily and more precisely.
+* [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 * [IP](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
